@@ -1,1 +1,1 @@
-![alt text](https://docs.google.com/document/d/1alqXiUFx0qlXiwwOlch3wsSGUiWUmq9ZIVcmt40aMGQ/edit#)
+![Image alt](https://github.com/sqrt1337/js07/raw/master/image.png)
